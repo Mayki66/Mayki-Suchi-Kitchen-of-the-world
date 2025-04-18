@@ -1,0 +1,330 @@
+{
+  "legumes": [
+    {
+      "nom": "Carotte",
+      "glucide": true
+    },
+    {
+      "nom": "Courgette"
+    },
+    {
+      "nom": "Brocoli",
+      "proteine": true
+    },
+    {
+      "nom": "Épinard",
+      "proteine": true
+    },
+    {
+      "nom": "Poivron"
+    },
+    {
+      "nom": "Aubergine"
+    },
+    {
+      "nom": "Chou-fleur"
+    },
+    {
+      "nom": "Haricot vert"
+    },
+    {
+      "nom": "Navet"
+    },
+    {
+      "nom": "Betterave"
+    },
+    {
+      "nom": "Oignon"
+    },
+    {
+      "nom": "Ail"
+    },
+    {
+      "nom": "Pomme de terre",
+      "glucide": true
+    },
+    {
+      "nom": "Patate douce",
+      "glucide": true
+    },
+    {
+      "nom": "Fenouil"
+    },
+    {
+      "nom": "Petits pois",
+      "glucide": true,
+      "proteine": true
+    },
+    {
+      "nom": "Chou rouge"
+    },
+    {
+      "nom": "Chou blanc"
+    },
+    {
+      "nom": "Chou de Bruxelles"
+    },
+    {
+      "nom": "Laitue"
+    },
+    {
+      "nom": "Roquette"
+    },
+    {
+      "nom": "Céleri"
+    },
+    {
+      "nom": "Radis"
+    },
+    {
+      "nom": "Concombre"
+    },
+    {
+      "nom": "Maïs",
+      "glucide": true
+    },
+    {
+      "nom": "Tomate"
+    }
+  ],
+  "fruits": [
+    {
+      "nom": "Banane",
+      "glucide": true
+    },
+    {
+      "nom": "Pomme",
+      "glucide": true
+    },
+    {
+      "nom": "Poire"
+    },
+    {
+      "nom": "Orange"
+    },
+    {
+      "nom": "Mandarine"
+    },
+    {
+      "nom": "Kiwi"
+    },
+    {
+      "nom": "Mangue",
+      "glucide": true
+    },
+    {
+      "nom": "Ananas"
+    },
+    {
+      "nom": "Raisin",
+      "glucide": true
+    },
+    {
+      "nom": "Fraise"
+    },
+    {
+      "nom": "Framboise"
+    },
+    {
+      "nom": "Myrtille"
+    },
+    {
+      "nom": "Cerise"
+    },
+    {
+      "nom": "Melon"
+    },
+    {
+      "nom": "Pastèque"
+    },
+    {
+      "nom": "Abricot"
+    },
+    {
+      "nom": "Pêche"
+    },
+    {
+      "nom": "Prune"
+    },
+    {
+      "nom": "Citron"
+    },
+    {
+      "nom": "Grenade"
+    },
+    {
+      "nom": "Litchi"
+    },
+    {
+      "nom": "Figue"
+    }
+  ],
+  "cereales": [
+    {
+      "nom": "Riz",
+      "glucide": true
+    },
+    {
+      "nom": "Pâtes",
+      "glucide": true
+    },
+    {
+      "nom": "Semoule",
+      "glucide": true
+    },
+    {
+      "nom": "Boulgour",
+      "glucide": true
+    },
+    {
+      "nom": "Quinoa",
+      "glucide": true,
+      "proteine": true
+    },
+    {
+      "nom": "Millet",
+      "glucide": true
+    },
+    {
+      "nom": "Orge",
+      "glucide": true
+    },
+    {
+      "nom": "Maïs",
+      "glucide": true
+    },
+    {
+      "nom": "Avoine",
+      "glucide": true
+    },
+    {
+      "nom": "Blé complet",
+      "glucide": true
+    }
+  ],
+  "epices": [
+    {
+      "nom": "Curry"
+    },
+    {
+      "nom": "Cumin"
+    },
+    {
+      "nom": "Paprika"
+    },
+    {
+      "nom": "Curcuma"
+    },
+    {
+      "nom": "Cannelle"
+    },
+    {
+      "nom": "Gingembre"
+    },
+    {
+      "nom": "Poivre noir"
+    },
+    {
+      "nom": "Coriandre"
+    },
+    {
+      "nom": "Piment"
+    },
+    {
+      "nom": "Thym"
+    },
+    {
+      "nom": "Romarin"
+    },
+    {
+      "nom": "Basilic"
+    },
+    {
+      "nom": "Origan"
+    },
+    {
+      "nom": "Clou de girofle"
+    },
+    {
+      "nom": "Muscade"
+    },
+    {
+      "nom": "Aneth"
+    },
+    {
+      "nom": "Estragon"
+    },
+    {
+      "nom": "Menthe"
+    }
+  ],
+  "liquides": [
+    {
+      "nom": "Lait",
+      "proteine": true
+    },
+    {
+      "nom": "Lait d'amande"
+    },
+    {
+      "nom": "Lait de soja",
+      "proteine": true
+    },
+    {
+      "nom": "Crème",
+      "proteine": true
+    },
+    {
+      "nom": "Huile d'olive"
+    },
+    {
+      "nom": "Huile de tournesol"
+    },
+    {
+      "nom": "Vinaigre balsamique"
+    },
+    {
+      "nom": "Vinaigre de cidre"
+    },
+    {
+      "nom": "Sauce soja"
+    },
+    {
+      "nom": "Eau"
+    }
+  ],
+  "oleagineux": [
+    {
+      "nom": "Amande",
+      "proteine": true
+    },
+    {
+      "nom": "Noisette",
+      "proteine": true
+    },
+    {
+      "nom": "Noix",
+      "proteine": true
+    },
+    {
+      "nom": "Noix de cajou",
+      "proteine": true
+    },
+    {
+      "nom": "Pistache"
+    },
+    {
+      "nom": "Graines de tournesol"
+    },
+    {
+      "nom": "Graines de courge"
+    },
+    {
+      "nom": "Graines de lin"
+    },
+    {
+      "nom": "Graines de chia",
+      "proteine": true
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "Europe": [
+    {
+      "name": "Ratatouille",
+      "country": "France",
+      "ingredients": [
+        {
+          "name": "aubergine",
+          "type": "vegetable"
+        },
+        {
+          "name": "courgette",
+          "type": "vegetable"
+        },
+        {
+          "name": "tomate",
+          "type": "vegetable"
+        },
+        {
+          "name": "huile d'olive",
+          "type": "glucide"
+        },
+        {
+          "name": "ail",
+          "type": "vegetable"
+        }
+      ],
+      "description": "Un ragoût de légumes provençal, riche en saveurs méditerranéennes."
+    },
+    {
+      "name": "Tartiflette végétarienne",
+      "country": "France",
+      "ingredients": [
+        {
+          "name": "pommes de terre",
+          "type": "glucide"
+        },
+        {
+          "name": "reblochon",
+          "type": "protéine"
+        },
+        {
+          "name": "oignons",
+          "type": "vegetable"
+        },
+        {
+          "name": "crème fraîche",
+          "type": "protéine"
+        },
+        {
+          "name": "huile",
+          "type": "glucide"
+        }
+      ],
+      "description": "Une version végétarienne du plat savoyard classique à base de pommes de terre et de fromage."
+    },
+    {
+      "name": "Soupe à l'oignon",
+      "country": "France",
+      "ingredients": [
+        {
+          "name": "oignons",
+          "type": "vegetable"
+        },
+        {
+          "name": "pain",
+          "type": "glucide"
+        },
+        {
+          "name": "fromage râpé",
+          "type": "protéine"
+        },
+        {
+          "name": "bouillon de légumes",
+          "type": "liquide"
+        },
+        {
+          "name": "beurre",
+          "type": "glucide"
+        }
+      ],
+      "description": "Une soupe chaude et gratinée, parfaite pour les soirées d'hiver."
+    },
+    {
+      "name": "Gratin dauphinois",
+      "country": "France",
+      "ingredients": [
+        {
+          "name": "pommes de terre",
+          "type": "glucide"
+        },
+        {
+          "name": "crème",
+          "type": "protéine"
+        },
+        {
+          "name": "ail",
+          "type": "vegetable"
+        },
+        {
+          "name": "lait",
+          "type": "liquide"
+        },
+        {
+          "name": "beurre",
+          "type": "glucide"
+        }
+      ],
+      "description": "Un gratin onctueux à base de pommes de terre et de crème, cuit lentement au four."
+    },
+    {
+      "name": "Salade niçoise végétarienne",
+      "country": "France",
+      "ingredients": [
+        {
+          "name": "tomates",
+          "type": "vegetable"
+        },
+        {
+          "name": "haricots verts",
+          "type": "vegetable"
+        },
+        {
+          "name": "œufs",
+          "type": "protéine"
+        },
+        {
+          "name": "olives noires",
+          "type": "glucide"
+        },
+        {
+          "name": "huile d'olive",
+          "type": "glucide"
+        }
+      ],
+      "description": "Une salade fraîche du sud de la France avec des légumes croquants et des œufs durs."
+    }
+  ],
+  "Asie": [
+    {
+      "name": "Chana Masala",
+      "country": "Inde",
+      "ingredients": [
+        {
+          "name": "pois chiches",
+          "type": "protéine"
+        },
+        {
+          "name": "tomates",
+          "type": "vegetable"
+        },
+        {
+          "name": "oignons",
+          "type": "vegetable"
+        },
+        {
+          "name": "ail",
+          "type": "vegetable"
+        },
+        {
+          "name": "épices indiennes",
+          "type": "épices"
+        }
+      ],
+      "description": "Un curry épicé aux pois chiches, typique de la cuisine indienne du nord."
+    },
+    {
+      "name": "Vegetable Biryani",
+      "country": "Inde",
+      "ingredients": [
+        {
+          "name": "riz basmati",
+          "type": "glucide"
+        },
+        {
+          "name": "carottes",
+          "type": "vegetable"
+        },
+        {
+          "name": "petits pois",
+          "type": "vegetable"
+        },
+        {
+          "name": "épices",
+          "type": "épices"
+        },
+        {
+          "name": "yaourt",
+          "type": "protéine"
+        }
+      ],
+      "description": "Un plat de riz parfumé aux légumes et aux épices."
+    },
+    {
+      "name": "Tofu Teriyaki",
+      "country": "Japon",
+      "ingredients": [
+        {
+          "name": "tofu",
+          "type": "protéine"
+        },
+        {
+          "name": "sauce soja",
+          "type": "liquide"
+        },
+        {
+          "name": "gingembre",
+          "type": "épices"
+        },
+        {
+          "name": "ail",
+          "type": "vegetable"
+        },
+        {
+          "name": "riz blanc",
+          "type": "glucide"
+        }
+      ],
+      "description": "Un plat sucré-salé japonais où le tofu est caramélisé dans une sauce teriyaki maison."
+    },
+    {
+      "name": "Gado-Gado",
+      "country": "Indonésie",
+      "ingredients": [
+        {
+          "name": "pommes de terre",
+          "type": "glucide"
+        },
+        {
+          "name": "œufs",
+          "type": "protéine"
+        },
+        {
+          "name": "chou",
+          "type": "vegetable"
+        },
+        {
+          "name": "sauce aux cacahuètes",
+          "type": "oléagineux"
+        },
+        {
+          "name": "carottes",
+          "type": "vegetable"
+        }
+      ],
+      "description": "Une salade de légumes bouillis servie avec une sauce aux cacahuètes riche et onctueuse."
+    },
+    {
+      "name": "Bibimbap végétarien",
+      "country": "Corée du Sud",
+      "ingredients": [
+        {
+          "name": "riz",
+          "type": "glucide"
+        },
+        {
+          "name": "épinards",
+          "type": "vegetable"
+        },
+        {
+          "name": "champignons",
+          "type": "vegetable"
+        },
+        {
+          "name": "œuf",
+          "type": "protéine"
+        },
+        {
+          "name": "sauce gochujang",
+          "type": "épices"
+        }
+      ],
+      "description": "Un bol coréen iconique de riz mélangé avec légumes, œuf et sauce pimentée."
+    }
+  ]
+}
